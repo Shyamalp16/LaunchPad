@@ -1,0 +1,12 @@
+/DeployService/node_modules
+/DeployService/dist/output
+
+/RequestHandlerService/node_modules
+
+/UploadService/node_modules/
+/UploadService/.vscode/
+/UploadService/output/
+/UploadService/dist/output
+
+
+/frontend/node_modules
